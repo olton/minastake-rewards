@@ -1,0 +1,37 @@
+We calculate payout for key: B62qrAWZFqvgJbfU95t1owLAMKtsDTAGgSZzsBJYUzeQZ7dQNMmG5vw
+In epoch 9 with fee 10.00%
+Using ledger hash jxVLvFcBbRCDSM8MHLam6UPVPo2KDegbzJN6MTZWyhTvDrPcjYk
+We are using latest block number 47555
+We are using max block number 47540
+This script will payout from blocks 0 to 47540 in epoch 9
+The pool total staking balance is: 74936.35542648002
+The foundation delegation balance is: 0
+There are 9 delegates in the pool
+
+We won these 3 blocks:
+┌────┬───────┬─────────────────────┬──────────────┬─────────────┬────────────┬──────────────┐
+│ ID │ Block │ Super Charge Weight │     Coinbase │ Creator Fee │ Snarks Fee │ Coinbase Fee │
+├────┼───────┼─────────────────────┼──────────────┼─────────────┼────────────┼──────────────┤
+│ 1  │ 47530 │ 1.9999680565759705  │ 720000000000 │    23000000 │          0 │            0 │
+│ 2  │ 46767 │ 1.9999870950693173  │ 720000000000 │     9291670 │          0 │            0 │
+│ 3  │ 46631 │ 1.9997611681653829  │ 720000000000 │   172000000 │          0 │            0 │
+└────┴───────┴─────────────────────┴──────────────┴─────────────┴────────────┴──────────────┘
+
+We are paying out 2160204291670 nanomina in this window.
+Total rewards is 2160.20429167 mina
+Pool fee is 216.020429167 mina
+
+Payout table:
+┌────┬─────────────────────────────────────────────────────────┬────────────────┬────────────────┬───────────────┬────────────┐
+│ ID │ Address                                                 │          Stack │           Mina │      Nanomina │ Foundation │
+├────┼─────────────────────────────────────────────────────────┼────────────────┼────────────────┼───────────────┼────────────┤
+│ 1  │ B62qrAWZFqvgJbfU95t1owLAMKtsDTAGgSZzsBJYUzeQZ7dQNMmG5vw │ 66500.61938605 │ 1550.766760844 │ 1550766760844 │   false    │
+│ 2  │ B62qokrroqsdRaJhx5ZhNvdJRfAyjbLV1fRdpuccaRiJztkmGsvBaTb │     1918.22998 │   89.460418796 │   89460418796 │   false    │
+│ 3  │ B62qnp2Vrv3yseNCvYHQCpHtFN6eg4Ft8U7n6rJrBEnpXe4aGELjzaY │   600.79858315 │   28.019420726 │   28019420726 │   false    │
+│ 4  │ B62qjN4J9y2Xp6hWmG5VuRtejKpkHhoHujofKtJqw9V6UjSsKwjZxXu │   101.98581395 │    4.756308534 │    4756308534 │   false    │
+│ 5  │ B62qpwGSDLjqTpVbfK6e5nSiLmPGiET7mBVZp5o8CMRWM3xG5tN5fpe │   4110.6967826 │  191.710409885 │  191710409885 │   false    │
+│ 6  │ B62qpKvN5fqb2Qkwwa2ZajuaYE8zJR1mGyDiTSE1ddCWNvBmhND7XGc │        299.982 │   13.990249151 │   13990249151 │   false    │
+│ 7  │ B62qrJZo6oF7Qde6vveUa8XeUpNABq7L9wxx5mHdZoGrHJ2vo6KE5yY │   538.28098073 │   25.103789674 │   25103789674 │   false    │
+│ 8  │ B62qog5yLanKmKFRahChhSDwYPaiavj1FFPXD4ZJgcRpiN7zi4FLioA │         7.3372 │    0.342184717 │     342184717 │   false    │
+│ 9  │ B62qrxUfmKfHbkrVc73oXYxdqcBj8CjW939PCXm8d4JC2WDtdAdUBfV │       858.4247 │   40.034320163 │   40034320163 │   false    │
+└────┴─────────────────────────────────────────────────────────┴────────────────┴────────────────┴───────────────┴────────────┘

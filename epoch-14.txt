@@ -1,0 +1,49 @@
+We calculate payouts for address: B62qrAWZFqvgJbfU95t1owLAMKtsDTAGgSZzsBJYUzeQZ7dQNMmG5vw
+In the epoch 14 with fee 10.00%
+
+Using ledger hash jxPj7F7aRew1zvpW9JaGSgt9xmJitenrRSM6YGKnuhe5HXqyZtZ
+The pool total staking balance is: 68334.81952691398
+The foundation delegation balance is: 0
+The unlocked balance is: 68334.81952691398
+There are 10 delegates in the pool
+We are using blocks from 0 to 72239
+
+We won these 1:
+┌────┬──────────────┬────────┬───────┬───────────┬────────┬───────┬──────────────────────────────────────────────────────┐
+│ ID │ Block height │ Reward │ Snark │   Tx Fees │   Slot │ Epoch │ Hash                                                 │
+├────┼──────────────┼────────┼───────┼───────────┼────────┼───────┼──────────────────────────────────────────────────────┤
+│  1 │        71992 │    720 │     0 │ 378100000 │ 103443 │    14 │ 3NL4tD2D1omgjhcK6wJwjFn9HvPRUFzQNRvJvUor43vnes4kjfHC │
+└────┴──────────────┴────────┴───────┴───────────┴────────┴───────┴──────────────────────────────────────────────────────┘
+
+We are won 720.3781 mina (720378100000 nanomina) in this window.
+Regular rewards is 720.3781 mina
+Super charge rewards is 0 mina
+Transactions fee is 0.3781 mina
+Pool fee is 72.0378 mina
+Paid out rewards to delegators is 648.3403 mina
+Snark fee is 0 mina
+
+Paid out rewards by type:
+┌──────────────┬──────────┐
+│         Type │   Reward │
+├──────────────┼──────────┤
+│   Foundation │   0.0000 │
+│      Regular │ 648.3403 │
+│ Super Charge │   0.0000 │
+└──────────────┴──────────┘
+
+Payout table:
+┌────┬─────────────────────────────────────────────────────────┬─────────────────┬───────┬───────────────┬───────┬────────┐
+│ ID │                                                 Address │         Balance │     % │   Payout Mina │ Found │ Locked │
+├────┼─────────────────────────────────────────────────────────┼─────────────────┼───────┼───────────────┼───────┼────────┤
+│  1 │ B62qrAWZFqvgJbfU95t1owLAMKtsDTAGgSZzsBJYUzeQZ7dQNMmG5vw │ 66425.032677817 │ 97.21 │ 630.220804675 │    no │     no │
+│  2 │ B62qrJZo6oF7Qde6vveUa8XeUpNABq7L9wxx5mHdZoGrHJ2vo6KE5yY │   604.014368296 │  0.88 │   5.730707323 │    no │     no │
+│  3 │ B62qoeEeGhtkNTkr1VC14ABRdmnvoviCLiEHwbESgwrqdxUKMjZof9P │   590.585260562 │  0.86 │   5.603295973 │    no │     no │
+│  4 │ B62qpKGYyYb2xzqeh6UB3KtpR37usDQZz8weJ9EoaMs2yTGdzimjBxJ │   441.162983700 │  0.65 │   4.185622187 │    no │     no │
+│  5 │ B62qqdma5c5UA72TNwg9K8SFgnXXsTfTwRKd4AhDUGsM7BrnbcytagL │   121.415070000 │  0.18 │     1.1519498 │    no │     no │
+│  6 │ B62qjN4J9y2Xp6hWmG5VuRtejKpkHhoHujofKtJqw9V6UjSsKwjZxXu │   114.440040039 │  0.17 │   1.085772806 │    no │     no │
+│  7 │ B62qjfUSy3ZSD4786s27iTWUJVyD12N23oF32KsmisWDd8DUBjV9vJK │    29.839606064 │  0.04 │    0.28310924 │    no │     no │
+│  8 │ B62qog5yLanKmKFRahChhSDwYPaiavj1FFPXD4ZJgcRpiN7zi4FLioA │     8.233198610 │  0.01 │   0.078114121 │    no │     no │
+│  9 │ B62qji9aQW45JWt1fzwtA6ESxxrNTsH8Bji7TYXsKsSZjvCFoPL1LV6 │     0.088700000 │  0.00 │   0.000841559 │    no │     no │ Not paid, too low delegation
+│ 10 │ B62qokrroqsdRaJhx5ZhNvdJRfAyjbLV1fRdpuccaRiJztkmGsvBaTb │     0.007621826 │  0.00 │   0.000072314 │    no │     no │ Not paid, too low delegation
+└────┴─────────────────────────────────────────────────────────┴─────────────────┴───────┴───────────────┴───────┴────────┘

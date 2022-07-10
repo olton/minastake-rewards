@@ -1,0 +1,81 @@
+We calculate payouts for address: B62qrAWZFqvgJbfU95t1owLAMKtsDTAGgSZzsBJYUzeQZ7dQNMmG5vw
+In the epoch 31 with fee 10.00%, founds fee 5.00%, supercharge fee 10.00%
+
+Foundation addresses list contains: 480 records
+
+Using ledger hash jwcWudRBTNZuMd1Tcyjzpr71buwc9RNmT2Jip1efA9eWvXcZiKL
+The pool total staking balance is: 3706152.2291985815
+The foundation delegation balance is: 3509013.333005674
+The unlocked balance is: 197138.89619290698
+There are 19 delegates in the pool
+We are using blocks from 0 to 156384
+
+We won these 22:
+┌────┬──────────────┬────────┬──────────┬───────────┬────────┬───────┬──────────────────────────────────────────────────────┐
+│ ID │ Block height │ Reward │    Snark │   Tx Fees │   Slot │ Epoch │ Hash                                                 │
+├────┼──────────────┼────────┼──────────┼───────────┼────────┼───────┼──────────────────────────────────────────────────────┤
+│  1 │       154762 │   1440 │        0 │  30500000 │ 228197 │    31 │ 3NKTMW2ARAt2SLj67x345dbyMwhw3JXowNLHDD8tX9RwjvPLbUP9 │
+│  2 │       154370 │    720 │        0 │  24000000 │ 227656 │    31 │ 3NLT9QcLiX3ALdYKEVcT4wNTZZZ2v7RAERde9oQPppc1JkdHCb3G │
+│  3 │       154120 │    720 │        0 │  20500000 │ 227277 │    31 │ 3NLTjdbbJUat8LReSvNSeUdMNdWmk4E9CuLxAG48qihfa8KDNLFv │
+│  4 │       153941 │    720 │        0 │  12000000 │ 227019 │    31 │ 3NLqnBML1Q1THvcU37WyZoaLk7JJ8XPbrvjXJSf4CCEG2CQK77nH │
+│  5 │       153892 │    720 │        0 │ 234850000 │ 226949 │    31 │ 3NKmP46ZH2wfTvuWpEXCtxsf1cVvyMLjdVJikxj3h6QysByhDxpp │
+│  6 │       153803 │    720 │        0 │  51100000 │ 226816 │    31 │ 3NLBg9FXb4NwPBGu974dvLVuWPNJ3StcvFZoU2JK8KY2RGMQ8P6T │
+│  7 │       153650 │    720 │        0 │   1000000 │ 226591 │    31 │ 3NL45uusiuuuychkCwk7pqZYiSyhk4y7HhAQMJSrTKhdd2k2u2UB │
+│  8 │       153642 │    720 │        0 │  31000000 │ 226579 │    31 │ 3NKLKreV6dvZPXbxFPYcZZwPeSV76eoHNuUsAbrosQXkMLurunCE │
+│  9 │       153482 │    720 │        0 │ 111100000 │ 226346 │    31 │ 3NLp9VfqheQr5fFwsVLBCCrpHjSFpciUwhHQDBAVmsAUqRybFLky │
+│ 10 │       152530 │    720 │        0 │  43100000 │ 224939 │    31 │ 3NLyDYgchmjFb43UXP6TpV7e7CtBCAaEPCpgCmQoo5bPJ47cphYA │
+│ 11 │       152385 │    720 │        0 │  21000000 │ 224722 │    31 │ 3NKdbUgzLksnnXfEbUdESisCUsWxJ1pzitgrWAsJ6BR1jrHjeL5K │
+│ 12 │       151789 │    720 │        0 │         0 │ 223868 │    31 │ 3NKeHvrUG1e9oNvwe3ycWGeJfApufcGnS32DasE5kzzWGYixvYvh │
+│ 13 │       151663 │    720 │        0 │  21100000 │ 223692 │    31 │ 3NLATG5in6o1PqWUy1vWvzFjmreJUezE1AS3eDubSdH3hdTGY7V8 │
+│ 14 │       151654 │    720 │        0 │  22000000 │ 223676 │    31 │ 3NLdRoq8ZG25NYfzY77ikqfTQBRMpgqKSLJZhDFfRrdPy2HcVYTF │
+│ 15 │       151490 │    720 │        0 │   5000000 │ 223441 │    31 │ 3NKhA6dX7kvSEsuYbfViFnh7icFRrRdvbnzjzD5M1qV76DavnRGU │
+│ 16 │       151229 │    720 │        0 │ 392000000 │ 223064 │    31 │ 3NKmRbcuoxKSeYBjnS8RfTTHYadKpzvPPYihvHGxaRyWK1eKnGws │
+│ 17 │       151063 │    720 │        0 │ 256600000 │ 222845 │    31 │ 3NLPqYqFfedRqgt3Wqob9NEjNSF2GWSXbGC79i3VBncB9wa1ooaL │
+│ 18 │       150935 │    720 │        0 │   2000000 │ 222647 │    31 │ 3NLCVZ17nyW8cxzfmJFwLtp8gG5RTfBa6sGd5KfgpTQrjtCnEXhh │
+│ 19 │       150832 │    720 │      330 │ 121000000 │ 222477 │    31 │ 3NKbq29pa4rKb5fGbiomb94Ag1tCe73UpJqUJv3gRuSFXtPzz2Qu │
+│ 20 │       150789 │    720 │ 97810010 │ 161311110 │ 222416 │    31 │ 3NK5NrMUWsAkPzGkfe74iw7EsZpPpquQiSsngFVwJhFqLTee4YRt │
+│ 21 │       150500 │    720 │        0 │  20000000 │ 221991 │    31 │ 3NKDdtti6dhTfWNm6wyEWyUDzm2SvvuNR7EFeDEkDVXoWzdfTT7d │
+│ 22 │       150112 │    720 │        0 │  31100000 │ 221413 │    31 │ 3NLm4TqvyzxRo7NScLnvEZywEUELZ14zYeax2QnQRvyKCnAdQ95o │
+└────┴──────────────┴────────┴──────────┴───────────┴────────┴───────┴──────────────────────────────────────────────────────┘
+
+We are won 16561.5145 mina (16561514450770 nanomina) in this window.
+Regular rewards is 15841.51445077 mina
+Super charge rewards is 720 mina
+Transactions fee is 1.61226111 mina
+Pool fee is 906.2081 mina
+Paid out rewards to delegators is 15655.3064 mina
+Snark fee is 97810340 nanomina
+
+Paid out rewards by type:
+┌──────────────┬────────────┐
+│         Type │     Reward │
+├──────────────┼────────────┤
+│   Foundation │ 14248.9239 │
+│      Regular │   758.3824 │
+│ Super Charge │   648.0000 │
+└──────────────┴────────────┘
+
+Payout table:
+┌────┬─────────────────────────────────────────────────────────┬───────────────────┬───────┬────────────────┬───────┬────────┐
+│ ID │                                                 Address │           Balance │     % │    Payout Mina │ Found │ Locked │
+├────┼─────────────────────────────────────────────────────────┼───────────────────┼───────┼────────────────┼───────┼────────┤
+│  1 │ B62qo8yt9f1eQAv1kNUocT7jWKcHBTEcMxkSCmK5FSn9eKUfy6mZpQc │ 1218080.440798811 │ 32.87 │ 4946.215326893 │   yes │    yes │
+│  2 │ B62qpYVQWpALzvtXLhBLcftFbSLv2bhDJYwfctSG1DKjE4by2h3Z9Fo │  892406.873920521 │ 24.08 │ 3623.764416343 │   yes │    yes │
+│  3 │ B62qkH5oH847YezFUPiPNq7LbMaNDpZ5SBp7Wp3maPU8DaejgCG9V88 │  751238.799491586 │ 20.27 │  3050.52830646 │   yes │    yes │
+│  4 │ B62qiZv8fWPqH9oCUruNLuJaranpRAXeYzBMpVfZWA8Ui4bvZiGtQdT │  647287.218794756 │ 17.47 │ 2628.415870798 │   yes │    yes │
+│  5 │ B62qoptG1uNpZGczoXJJ7JKBNrvcUGAkio2A6LoKpw2awXoFyP4f1gG │  127657.230924600 │  3.44 │  910.702517784 │    no │     no │
+│  6 │ B62qrAWZFqvgJbfU95t1owLAMKtsDTAGgSZzsBJYUzeQZ7dQNMmG5vw │   61255.339007127 │  1.65 │  436.993588671 │    no │     no │
+│  7 │ B62qnyk1g4S6zCxg9p4gorrFgZQv61BnhPkQ6s2uSrYd1fxD2qLTrG2 │    7567.029247927 │  0.20 │   53.982939614 │    no │     no │
+│  8 │ B62qjj3f17hW2KZNGzMi9XGBx1MaxGtpJfhs4U21CYxy9N1bhtfU1oZ │     205.237282934 │  0.01 │    1.464156076 │    no │     no │
+│  9 │ B62qmv6xi2nNTgtRmQcsfJAT7MA24UgGG5PrULhMqi9WdNkuk65c9jb │     201.900785683 │  0.01 │    1.440353614 │    no │     no │
+│ 10 │ B62qpf8Bpc9XwBf5w9z2XEFxd8M17H8JMxfbQfW5PgpEnufUqrrZ2tt │     181.662392159 │  0.00 │    1.295973575 │    no │     no │
+│ 11 │ B62qjfUSy3ZSD4786s27iTWUJVyD12N23oF32KsmisWDd8DUBjV9vJK │      31.807025507 │  0.00 │    0.226910282 │    no │     no │
+│ 12 │ B62qncvTVzddS9rNEmmkBB1ctKSu28mw4Rk6gd8HHQTEvzKJZ4eKwa9 │      16.020303027 │  0.00 │    0.114288319 │    no │     no │
+│ 13 │ B62qog5yLanKmKFRahChhSDwYPaiavj1FFPXD4ZJgcRpiN7zi4FLioA │       8.776039389 │  0.00 │    0.062607978 │    no │     no │
+│ 14 │ B62qrvWsuK76t2snRwYSR4g9vqVqQ5TuEZXqZreURm83Tg6JGvtsTq5 │       5.143435226 │  0.00 │    0.036693099 │    no │     no │
+│ 15 │ B62qoeEeGhtkNTkr1VC14ABRdmnvoviCLiEHwbESgwrqdxUKMjZof9P │       5.139254740 │  0.00 │    0.036663276 │    no │     no │
+│ 16 │ B62qjFXgRemD4q6382PqpaoiS4mFnRCtPVRtY5yBGV3kyDYpnca8St4 │       2.530219852 │  0.00 │    0.018050506 │    no │     no │
+│ 17 │ B62qrhe6cjZ22qskBxq7K4Qb8vnBR7SbvFcwiifo9VssYRY7qhyLpcB │       1.044152885 │  0.00 │    0.007448953 │    no │     no │
+│ 18 │ B62qp33j2n9JMMTu4FXi7s9UXj9oHF54Snpkvk7395VBWQDsbtnzLBb │       0.028100604 │  0.00 │    0.000200469 │    no │     no │
+│ 19 │ B62qokrroqsdRaJhx5ZhNvdJRfAyjbLV1fRdpuccaRiJztkmGsvBaTb │       0.008021247 │  0.00 │    0.000057223 │    no │     no │
+└────┴─────────────────────────────────────────────────────────┴───────────────────┴───────┴────────────────┴───────┴────────┘

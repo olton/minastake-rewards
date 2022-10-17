@@ -1,0 +1,57 @@
+We calculate payouts for address: B62qrAWZFqvgJbfU95t1owLAMKtsDTAGgSZzsBJYUzeQZ7dQNMmG5vw
+In the epoch 38 with fee 10.00%, founds fee 5.00%, supercharge fee 10.00%
+
+Foundation addresses list contains: 480 records
+
+Using ledger hash jwHyH1qgW4iBRHEJEDo4yaxMW82VgNCLmQwHNzVKSxTapisydbo
+The pool total staking balance is: 188898.60242497094
+The foundation delegation balance is: 0
+The unlocked balance is: 188898.60242497094
+There are 16 delegates in the pool
+We are using blocks from 0 to 188611
+
+We won these 1:
+┌────┬──────────────┬────────┬──────────┬───────────┬────────┬───────┬──────────────────────────────────────────────────────┐
+│ ID │ Block height │ Reward │    Snark │   Tx Fees │   Slot │ Epoch │ Hash                                                 │
+├────┼──────────────┼────────┼──────────┼───────────┼────────┼───────┼──────────────────────────────────────────────────────┤
+│  1 │       186144 │   1440 │ 80182252 │ 605100000 │ 274441 │    38 │ 3NLXprbrQgZibu2SMeBvY9rX7hLYsfEsdLqFAZJ3mnJKcES61ivW │
+└────┴──────────────┴────────┴──────────┴───────────┴────────┴───────┴──────────────────────────────────────────────────────┘
+
+We are won 1440.5249 mina (1440524917748 nanomina) in this window.
+Regular rewards is 720.524917748 mina
+Super charge rewards is 720 mina
+Transactions fee is 0.6051 mina
+Pool fee is 792.0525 mina
+Paid out rewards to delegators is 648.4724 mina
+Snark fee is 80182252 nanomina
+
+Paid out rewards by type:
+┌──────────────┬──────────┐
+│         Type │   Reward │
+├──────────────┼──────────┤
+│   Foundation │   0.0000 │
+│      Regular │ 648.4724 │
+│ Super Charge │   0.0000 │
+└──────────────┴──────────┘
+
+Payout table:
+┌────┬─────────────────────────────────────────────────────────┬──────────────────┬───────┬───────────────┬───────┬────────┐
+│ ID │                                                 Address │          Balance │     % │   Payout Mina │ Found │ Locked │
+├────┼─────────────────────────────────────────────────────────┼──────────────────┼───────┼───────────────┼───────┼────────┤
+│  1 │ B62qoptG1uNpZGczoXJJ7JKBNrvcUGAkio2A6LoKpw2awXoFyP4f1gG │ 186346.918560812 │ 98.65 │ 639.712717831 │    no │     no │
+│  2 │ B62qqJBahPTi5uepSune2gYpUBgJsSax98zvDTcRAz1NVb9YKZUTnV3 │   1045.880652741 │  0.55 │   3.590417057 │    no │     no │
+│  3 │ B62qjfUSy3ZSD4786s27iTWUJVyD12N23oF32KsmisWDd8DUBjV9vJK │    440.513340827 │  0.23 │   1.512243877 │    no │     no │
+│  4 │ B62qqd1uRYgZBQDFE3aQxNyYDKF6YPrSjAseqyGuADU5y7NDteA6e81 │    330.957100000 │  0.18 │   1.136146857 │    no │     no │
+│  5 │ B62qjj3f17hW2KZNGzMi9XGBx1MaxGtpJfhs4U21CYxy9N1bhtfU1oZ │    298.592491805 │  0.16 │    1.02504198 │    no │     no │
+│  6 │ B62qmv6xi2nNTgtRmQcsfJAT7MA24UgGG5PrULhMqi9WdNkuk65c9jb │    208.266384006 │  0.11 │   0.714960331 │    no │     no │
+│  7 │ B62qpf8Bpc9XwBf5w9z2XEFxd8M17H8JMxfbQfW5PgpEnufUqrrZ2tt │    187.399771682 │  0.10 │   0.643327071 │    no │     no │
+│  8 │ B62qncvTVzddS9rNEmmkBB1ctKSu28mw4Rk6gd8HHQTEvzKJZ4eKwa9 │     16.536313659 │  0.01 │   0.056767722 │    no │     no │
+│  9 │ B62qog5yLanKmKFRahChhSDwYPaiavj1FFPXD4ZJgcRpiN7zi4FLioA │      9.053211657 │  0.00 │   0.031078886 │    no │     no │
+│ 10 │ B62qrvWsuK76t2snRwYSR4g9vqVqQ5TuEZXqZreURm83Tg6JGvtsTq5 │      5.315922459 │  0.00 │   0.018249098 │    no │     no │
+│ 11 │ B62qoeEeGhtkNTkr1VC14ABRdmnvoviCLiEHwbESgwrqdxUKMjZof9P │      5.311667346 │  0.00 │   0.018234491 │    no │     no │
+│ 12 │ B62qjFXgRemD4q6382PqpaoiS4mFnRCtPVRtY5yBGV3kyDYpnca8St4 │      2.630275646 │  0.00 │   0.009029507 │    no │     no │
+│ 13 │ B62qrhe6cjZ22qskBxq7K4Qb8vnBR7SbvFcwiifo9VssYRY7qhyLpcB │      1.087230535 │  0.00 │   0.003732368 │    no │     no │
+│ 14 │ B62qnyk1g4S6zCxg9p4gorrFgZQv61BnhPkQ6s2uSrYd1fxD2qLTrG2 │      0.082038450 │  0.00 │   0.000281631 │    no │     no │
+│ 15 │ B62qp33j2n9JMMTu4FXi7s9UXj9oHF54Snpkvk7395VBWQDsbtnzLBb │      0.039088433 │  0.00 │   0.000134187 │    no │     no │
+│ 16 │ B62qokrroqsdRaJhx5ZhNvdJRfAyjbLV1fRdpuccaRiJztkmGsvBaTb │      0.018374913 │  0.00 │   0.000063079 │    no │     no │
+└────┴─────────────────────────────────────────────────────────┴──────────────────┴───────┴───────────────┴───────┴────────┘

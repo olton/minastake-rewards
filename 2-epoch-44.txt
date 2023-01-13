@@ -1,0 +1,45 @@
+We calculate payouts for address: B62qnwB98XVAV7FzsC2ghQZZSz3PCUjciiK5qB2b8LmxMnuLMZ9hUGd
+In the epoch 44 with fee 10.00%, founds fee 5.00%, supercharge fee 10.00%
+
+Foundation addresses list contains: 480 records
+
+Using ledger hash jxdhN2AXg5v3c6KbGdmNW58hvdiTVULhXF3yztD8CdKNnGdf3jp
+The pool total staking balance is: 941605.621573044
+The foundation delegation balance is: 941604.621573044
+The unlocked balance is: 1
+There are 2 delegates in the pool
+We are using blocks from 0 to 215847
+
+We won these 3:
+┌────┬──────────────┬────────┬──────────┬───────────┬────────┬───────┬──────────────────────────────────────────────────────┐
+│ ID │ Block height │ Reward │    Snark │   Tx Fees │   Slot │ Epoch │ Hash                                                 │
+├────┼──────────────┼────────┼──────────┼───────────┼────────┼───────┼──────────────────────────────────────────────────────┤
+│  1 │       213256 │    720 │ 34160300 │ 645500000 │ 316252 │    44 │ 3NLUNN19YBPkQGh6gPjBdnDf6iQGMmvtbuSAe2YLEjrQee22fVBf │
+│  2 │       212721 │    720 │  2310700 │ 362300000 │ 315407 │    44 │ 3NKX9rrQ5uVLc8K3d2fXxwmoM125QAUg8iVKCWHPQwo9jWUUm1hu │
+│  3 │       212151 │    720 │        0 │ 100700000 │ 314418 │    44 │ 3NKqRaYjRLuW7aDSG9GBabfABAomuaLeqjJVedKzeGRteoyEnFME │
+└────┴──────────────┴────────┴──────────┴───────────┴────────┴───────┴──────────────────────────────────────────────────────┘
+
+We are won 2161.0720 mina (2161072029000 nanomina) in this window.
+Regular rewards is 2161.072029 mina
+Super charge rewards is 0 mina
+Transactions fee is 1.1085 mina
+Pool fee is 108.0537 mina
+Paid out rewards to delegators is 2053.0183 mina
+Snark fee is 36471000 nanomina
+
+Paid out rewards by type:
+┌──────────────┬───────────┐
+│         Type │    Reward │
+├──────────────┼───────────┤
+│   Foundation │ 2053.0162 │
+│      Regular │    0.0021 │
+│ Super Charge │    0.0000 │
+└──────────────┴───────────┘
+
+Payout table:
+┌────┬─────────────────────────────────────────────────────────┬──────────────────┬────────┬────────────────┬───────┬────────┐
+│ ID │                                                 Address │          Balance │      % │    Payout Mina │ Found │ Locked │
+├────┼─────────────────────────────────────────────────────────┼──────────────────┼────────┼────────────────┼───────┼────────┤
+│  1 │ B62qrxjaEqDqq1VQXc9xPXU4DiJM4nBMYesWs7whmNyFrPr6Qo4GRzu │ 941604.621573044 │ 100.00 │ 2053.016247212 │   yes │    yes │
+│  2 │ B62qnwB98XVAV7FzsC2ghQZZSz3PCUjciiK5qB2b8LmxMnuLMZ9hUGd │      1.000000000 │   0.00 │    0.002065583 │    no │     no │
+└────┴─────────────────────────────────────────────────────────┴──────────────────┴────────┴────────────────┴───────┴────────┘

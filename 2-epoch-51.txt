@@ -1,0 +1,49 @@
+We calculate payouts for address: B62qnwB98XVAV7FzsC2ghQZZSz3PCUjciiK5qB2b8LmxMnuLMZ9hUGd
+In the epoch 51 with fee 10.00%, founds fee 5.00%, supercharge fee 10.00%
+
+Foundation addresses list contains: 480 records
+
+Using ledger hash jwuGkeeB2rxs2Cr679nZMVZpWms6QoEkcgt82Z2jsjB9X1MuJwW
+The pool total staking balance is: 982371.9144780909
+The foundation delegation balance is: 950438.181690312
+The unlocked balance is: 1
+There are 3 delegates in the pool
+We are using blocks from 0 to 247156
+
+We won these 6:
+┌────┬──────────────┬────────┬───────────┬───────────┬────────┬───────┬──────────────────────────────────────────────────────┐
+│ ID │ Block height │ Reward │     Snark │   Tx Fees │   Slot │ Epoch │ Hash                                                 │
+├────┼──────────────┼────────┼───────────┼───────────┼────────┼───────┼──────────────────────────────────────────────────────┤
+│  1 │       246868 │    720 │    110000 │  51000000 │ 370891 │    51 │ 3NL3mv2JqkH1UyM1rPaJQknoaDcbr1Fze5JJcCt11oREDMsiUjvj │
+│  2 │       245473 │    720 │ 127442885 │ 135500000 │ 368615 │    51 │ 3NK92k8iYUUjYuNhevSTYvXnWHgWimhDQHtLq3RBBsAxnD9PZdFd │
+│  3 │       245261 │    720 │         0 │  35100002 │ 368244 │    51 │ 3NLhsJT7jRioHUrHQZs3WYt64pDGQr2fry6vkwnibNPitWuqbCMn │
+│  4 │       244760 │    720 │         0 │ 330100008 │ 367414 │    51 │ 3NLGjxLFCxFN5MXp1XSe9dLWCSwsX8KtZc91cxPnguHv7af2coPw │
+│  5 │       244369 │    720 │   4860000 │  79800007 │ 366785 │    51 │ 3NLxpbztZ3dZXFvNnoJjR8AoPupQWNcNn18dK3Vc3uH8J3F7gPn9 │
+│  6 │       243789 │    720 │  12510000 │  43500004 │ 365794 │    51 │ 3NKJZciaSW27uqt4mpFfp7EPBMSL5ctzqTMDK1No1oU3qvUuGWB6 │
+└────┴──────────────┴────────┴───────────┴───────────┴────────┴───────┴──────────────────────────────────────────────────────┘
+
+We are won 4320.5301 mina (4320530077136 nanomina) in this window.
+Regular rewards is 4320.530077136 mina
+Super charge rewards is 0 mina
+Transactions fee is 0.675000021 mina
+Pool fee is 223.0488 mina
+Paid out rewards to delegators is 4097.4813 mina
+Snark fee is 144922885 nanomina
+
+Paid out rewards by type:
+┌──────────────┬───────────┐
+│         Type │    Reward │
+├──────────────┼───────────┤
+│   Foundation │ 3971.0794 │
+│      Regular │  126.4018 │
+│ Super Charge │    0.0000 │
+└──────────────┴───────────┘
+
+Payout table:
+┌────┬─────────────────────────────────────────────────────────┬──────────────────┬───────┬────────────────┬───────┬────────┐
+│ ID │                                                 Address │          Balance │     % │    Payout Mina │ Found │ Locked │
+├────┼─────────────────────────────────────────────────────────┼──────────────────┼───────┼────────────────┼───────┼────────┤
+│  1 │ B62qrxjaEqDqq1VQXc9xPXU4DiJM4nBMYesWs7whmNyFrPr6Qo4GRzu │ 950438.181690312 │ 96.75 │ 3971.079440928 │   yes │    yes │
+│  2 │ B62qrAWZFqvgJbfU95t1owLAMKtsDTAGgSZzsBJYUzeQZ7dQNMmG5vw │  31932.732787779 │  3.25 │  126.397851343 │    no │    yes │
+│  3 │ B62qnwB98XVAV7FzsC2ghQZZSz3PCUjciiK5qB2b8LmxMnuLMZ9hUGd │      1.000000000 │  0.00 │    0.003958254 │    no │     no │
+└────┴─────────────────────────────────────────────────────────┴──────────────────┴───────┴────────────────┴───────┴────────┘
